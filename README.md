@@ -4,7 +4,7 @@
 因為我想架設一個網站，於是她就誕生了!
 
 ##成果展示
-![](https://github.com/grand-coder/class1/raw/master/demo.png)
+![](https://github.com/bd1204/class1/blob/master/demo.png)
 ##使用技術
 
 名稱 | 說明
